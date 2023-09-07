@@ -11,7 +11,7 @@ Install Jenkins, configure Docker as agent, set up cicd, deploy applications to 
 - Virtual Machine(running)
 - Launch instances
 
-<img width="994" alt="Azure vm " src="https://github.com/repoaz253/ci-cdpipeline/assets/130156999/36165749-87da-4359-9dea-8e12d115cf90">
+<img width="994" alt="Azure vm " src="https://github.com/repoaz253/ci-cdpipeline/assets/130156999/716a26a7-10b0-46dd-b999-0c2170eda693">
 
 ### Install Jenkins.
 
