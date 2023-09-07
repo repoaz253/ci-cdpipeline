@@ -11,7 +11,7 @@ Install Jenkins, configure Docker as agent, set up cicd, deploy applications to 
 - Instances(running)
 - Launch instances
 
-<img width="994" alt="Screenshot 2023-02-01 at 12 37 45 PM" src="https://user-images.githubusercontent.com/43399466/215974891-196abfe9-ace0-407b-abd2-adcffe218e3f.png">
+<img width="994" alt="Screenshot 2023-02-01 at 12 37 45 PM" src="https://github.com/repoaz253/ci-cdpipeline/assets/130156999/36165749-87da-4359-9dea-8e12d115cf90">
 
 ### Install Jenkins.
 
