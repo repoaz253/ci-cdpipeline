@@ -5,10 +5,10 @@
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
-## AWS EC2 Instance
+## Azure Vm 
 
-- Go to AWS Console
-- Instances(running)
+- Go to Azure Portal 
+- Virtual Machine(running)
 - Launch instances
 
 <img width="994" alt="Azure vm " src="https://github.com/repoaz253/ci-cdpipeline/assets/130156999/36165749-87da-4359-9dea-8e12d115cf90">
